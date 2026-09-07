@@ -1,0 +1,10 @@
+Method,Passed
+airport_options,True
+destination_options,True
+operated_destination_options,True
+route_carrier_insights,True
+aircraft_options,True
+route_overview,True
+route_aircraft_insights,True
+route_lf_history,True
+aircraft_profile,True

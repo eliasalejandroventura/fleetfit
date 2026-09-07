@@ -1,0 +1,5 @@
+History support,Reliability label,Application treatment,Validation rows,Validation MAE,Validation RMSE,Validation R2,Validation P90 absolute error
+24+ months,Standard,Recommendation with normal reliability wording,159904,0.069199497581285,0.0998463307038255,0.6625654496396338,0.1516288375064703
+12–23 months,Moderate,Recommendation with reduced-support notice,24034,0.0899405272569426,0.1274040122169618,0.4793491921524052,0.198267778464726
+1–11 months,Low,Exploratory result with prominent low-reliability warning,28446,0.1143880681574574,0.1553678695182157,0.4176343728102153,0.2427705453473804
+0 months,Abstain from standard recommendation,Show only as exploratory estimate; do not present as a reliable assignment,5069,0.1677668410778932,0.2130516212981289,0.2053498840252295,0.3357760651789887

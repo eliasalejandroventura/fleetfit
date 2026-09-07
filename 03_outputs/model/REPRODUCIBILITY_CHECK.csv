@@ -1,0 +1,4 @@
+AIRCRAFT_TYPE,AIRCRAFT_DESCRIPTION,Original prediction,RELIABILITY,Reloaded prediction,Absolute difference
+698,Airbus Industrie A319,0.8217843,Standard,0.8217843,0.0
+694,Airbus Industrie A320-100/200,0.7894175,Standard,0.7894175,0.0
+673,Embraer ERJ-175,0.8342526,Standard,0.8342526,0.0
